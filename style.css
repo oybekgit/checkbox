@@ -77,3 +77,16 @@ body{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+
+.easy {
+    max-width: 1000px;
+    width: 100%;
+    line-height: 50px;
+    font-size: 22px;
+    color: #51ff00;
+    background: grey;
+    border-radius: 20px;
+    text-align: justify;
+    border: #00a2ff 2px dashed;
+}
